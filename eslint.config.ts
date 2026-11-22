@@ -5,7 +5,7 @@ import tseslint from "typescript-eslint";
 
 export default defineConfig(
 	globalIgnores(
-		["**/*.snap", "coverage", "dist", "lib", "node_modules", "pnpm-lock.yaml"],
+		["**/*.snap", "coverage", "dist", "node_modules", "pnpm-lock.yaml"],
 		"Global Ignores",
 	),
 	{ linterOptions: { reportUnusedDisableDirectives: "error" } },
