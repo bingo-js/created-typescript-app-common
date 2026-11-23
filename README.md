@@ -1,4 +1,4 @@
-<h1 align="center">CTA Example Common</h1>
+<h1 align="center">created-typescript-app-common</h1>
 
 <p align="center">
 	An example of <a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a>'s Common preset.
