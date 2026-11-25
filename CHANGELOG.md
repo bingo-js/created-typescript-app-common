@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.1](https://github.com/bingo-js/created-typescript-app-common/compare/0.1.0...0.1.1) (2026-11-25)
+
+### Bug Fixes
+
+- bump to create-typescript-app@2.87.21 ([#131](https://github.com/bingo-js/created-typescript-app-common/issues/131)) ([8f32c4a](https://github.com/bingo-js/created-typescript-app-common/commit/8f32c4a166a51474b6fe0a60d7482eab473d48b3)), references [JoshuaKGoldberg/create-typescript-app#2476](https://github.com/JoshuaKGoldberg/create-typescript-app/issues/2476)
+
 ## 0.1.0 (2025-03-07)
 
 ### Features
